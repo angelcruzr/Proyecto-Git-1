@@ -1,0 +1,1 @@
+print("Inicio del archivo archivo1.py")
